@@ -1,0 +1,1 @@
+This code prints all the patterns that match the given pattern the user enters from a file

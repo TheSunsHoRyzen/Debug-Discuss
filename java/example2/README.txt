@@ -1,0 +1,1 @@
+This is an array list implementation from scratch. Just so you know, the array list should double its size when it reaches capacity.
